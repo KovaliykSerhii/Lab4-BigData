@@ -1,0 +1,22 @@
+## Visual Studio & Build Folders
+[Bb]in/
+[Oo]bj/
+.vs/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Mono / JetBrains
+.idea/
+*.DotSettings.user
+
+## OS generated
+[Tt]humbs.db
+[Ee]xthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
